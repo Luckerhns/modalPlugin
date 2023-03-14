@@ -1,0 +1,2 @@
+$.modal;
+const modal = $.modal();
